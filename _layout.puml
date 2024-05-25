@@ -1,0 +1,29 @@
+@startmindmap
+<style>
+node {{
+    Padding 12
+    Margin 3
+    HorizontalAlignment center
+    LineThickness 1.0
+
+    RoundCorner 40
+    MaximumWidth 100
+
+}}
+:depth(0) {{
+    FontSize 30
+    Shadowing 5.0
+    LineThickness 2.0
+}}
+:depth(1) {{
+    FontSize 15
+}}
+:depth(2) {{
+    MaximumWidth None
+
+}}
+</style>
+caption Figure 1
+title {{ Total Price: ${}, Total Mass: {} kg }}
+{}
+@endmindmap
