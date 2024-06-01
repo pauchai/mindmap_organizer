@@ -1,5 +1,10 @@
-Данный проект призван помочь организовать рюкзак для путешествий.
-
+This project is aimed at helping to organize a backpack for travels
+Just edit main.puml to create mindmap 
+To generate mindmap run: 
+```
+python generate_mindmap.py
+```
+main.puml
 ```
 - <&home>Поход
 -- <&rain>Снаряжение
